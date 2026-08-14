@@ -1,0 +1,3 @@
+Thuoc tinh,Metric,Observed,Random mean,Random std,Z vs Random
+mature,Attribute assortativity,0.0852,-0.0019,0.0048,18.017
+log1p(views),Community eta-squared,0.015,0.0022,0.0009,13.446

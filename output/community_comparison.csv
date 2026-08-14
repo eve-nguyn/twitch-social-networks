@@ -1,0 +1,4 @@
+Phuong phap,So cum,Modularity (Q),Within-community Clustering (weighted),Z vs Random (Clustering)
+Louvain (chinh),17,0.457,0.2027,74.827
+Girvan-Newman,17,0.0003,0.131,44.613
+Random Baseline (mean of 100),17,-0.0009,0.0251,0.0
